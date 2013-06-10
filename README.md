@@ -57,3 +57,4 @@ More info about Oxwall Store:
         http://www.oxwall.org/store/terms
  * Oxwall Store Commercial License:
         http://www.oxwall.org/store/oscl
+[trigger:webcall]
